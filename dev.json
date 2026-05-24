@@ -1,7 +1,7 @@
 {
   "courseName": "Web Development",
   "videoType": "wistia",
-  "videos": [
+  /* "videos": [
     {
       "title": "Welcome to DevHub Library!",
       "url": "https://fast.wistia.com/embed/medias/y9vq324nox.m3u8"
@@ -898,5 +898,5 @@
       "title": "Workflow Summary",
       "url": "https://fast.wistia.com/embed/medias/rsuknoi6zi.m3u8"
     }
-  ]
+  ] */
 }
