@@ -1,8 +1,8 @@
 {
   "courseName": "Alpha Plus",
   "videoType": "wistia",
-  "videos": [
-   /* {
+  /* "videos": [
+    {
       "title": "Orientation Session (Recording)",
       "url": "https://fast.wistia.com/embed/medias/exn0srcjpk.m3u8"
     },
@@ -2297,6 +2297,6 @@
   {
     "title": "Max/Min Segment Tree (Query/Update)",
     "url": "https://fast.wistia.com/embed/medias/k6ou7mpesi.m3u8"
-  } */
-  ]
+  }
+  ] */
 }
