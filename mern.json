@@ -1,7 +1,7 @@
 {
   "courseName": "Mern Stack",
   "videoType": "wistia",
-  "videos": [
+  /* "videos": [
     {
       "title": "Welcome to Delta!",
       "url": "https://fast.wistia.com/embed/medias/hucl9u6so2.m3u8"
@@ -2886,5 +2886,5 @@
     "title": "Delete Todo",
     "url": "https://fast.wistia.com/embed/medias/fk6nknvz5h.m3u8"
   }
-  ]
+  ] */
 }
